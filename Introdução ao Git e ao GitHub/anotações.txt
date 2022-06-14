@@ -1,0 +1,15 @@
+Link para download do Git: https://git-scm.com/download/win
+O Git Bash é utilizado para rodar o Git por linhas de comando.
+
+Comandos principais:
+
+- git init
+- git status
+- git add * ou - git add .
+- git commit -m "[texto]"
+- git push origin master
+
+Outros comandos:
+- cd
+- ls
+- clear (Ctrl+l)
